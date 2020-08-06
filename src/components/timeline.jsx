@@ -1,5 +1,8 @@
 import React, { Component } from 'react'
 
+
+
+
 export default class Timeline extends Component {
   render() {
     return (
@@ -44,7 +47,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2> Bootcamp Projects!</h2>
-                        <p>12.5 years of experience successfully leading all technical aspects of enterprise level business intelligence and complex software initiatives from inception through project sign-off. Expertise includes coordinating teams as large as twenty developers, analysts, and testers to ensure timely completion of critical project deliverables. Several projects for which I provided leadership were highly customized solutions used to manage multi-billion dollar portfolios.</p> 
+                        <p> Visit my Github Profile to review the list of my Projects and Code. "https://github.com/shivani261979" </p>
                       </div>
                     </div>
                   </article>
